@@ -2,7 +2,9 @@ package ngoding;
 public class Day2 {
     public static void main(String[] args) {
         System.out.println("========= PRIMITIF =========");
-        // Tipe data primitif hanya dapat menyimpan satu nilai pada satu waktu dan tidak dapat diubah menggunakan cara yang sama seperti tipe data non-primitif. Tipe data Primitif akan dianggap sama jika nilainya sama.
+        // Tipe data primitif hanya dapat menyimpan satu nilai pada satu waktu
+        //dan tidak dapat diubah menggunakan cara yang sama seperti tipe data
+        //non-primitif. Tipe data Primitif akan dianggap sama jika nilainya sama.
         
         int nimAkhir;
         char kelas;
@@ -30,8 +32,11 @@ public class Day2 {
         System.out.println("Saya adalah angkatan " + angkatan + " kelas " + kelas);
         System.out.println("Saya berumur " + umur + " tahun dengan tinggi badan " + tinggiBadan + " cm dan " + mahasiswa + " saya adalah mahasiswa");
         System.out.println("Berat badan saya adalah " + beratBadan );
+        
+        
         System.out.println("\n======== NON PRIMITIF ========");
-        //Tipe data non-primitif  dapat menyimpan lebih dari satu nilai pada satu waktu dan dapat diubah. Tipe data non-primitif akan dianggap berbeda meskipun nilainya sama dan dalam urutan yang sama.
+        //Tipe data non-primitif  dapat menyimpan lebih dari satu nilai pada satu waktu dan dapat diubah.
+        //Tipe data non-primitif akan dianggap berbeda meskipun nilainya sama dan dalam urutan yang sama.      
         String nama;
         int nim2;
         char kls;
@@ -61,7 +66,6 @@ public class Day2 {
         System.out.println("Bulan lahir : " + bulan_lahir);
         System.out.println("Tahun_lahir : " + tahun_lahir);
         System.out.println("Berat_badan : " + berat_badan + "kg");
-        
         
         
  

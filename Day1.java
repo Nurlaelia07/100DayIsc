@@ -2,7 +2,7 @@ package ngoding;
 public class Day1 {
     public static void main(String[] args) {
         
-        String nama = "Nurlaelia";  
+        String nama = " Nurlaelia";  
         int nimAkhir = 1099;
         char kelas = 'G';
         byte umur = 19;

@@ -3,8 +3,8 @@ package ngoding;
 import java.util.Scanner;
 
 public class Day73 {
+    
     // Fungsi untuk menghitung jumlah semua elemen dalam array
-
     public static int jumlah(int[] array) {
         // Variabel untuk menyimpan jumlah
         int jumlah = 0;

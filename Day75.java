@@ -4,12 +4,11 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Day75 {
-
     public static void main(String[] args) {
         // Deklarasi variabel
         ArrayList<Integer> nilai = new ArrayList();
         int jumlah = 0;
-
+        
         // Membaca input dari pengguna
         for (int i = 1; i <= 5; i++) {
             Scanner sc = new Scanner(System.in);

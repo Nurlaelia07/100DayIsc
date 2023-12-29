@@ -17,7 +17,6 @@ public class Day82 {
         System.out.print("Masukkan kata: ");
         kata = sc.nextLine();
         // Melakukan iterasi dari belakang ke depan, mulai dari indeks terakhir hingga indeks pertama.
-
         for (int i = kata.length() - 1; i >= 0; i--) {
             // Menambahkan karakter pada indeks `i` dari kata `kata` ke variabel `terbalik`.
             terbalik += kata.charAt(i);

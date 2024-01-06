@@ -1,7 +1,9 @@
 package ngoding;
+
 import java.util.Scanner;
+
 public class Day90 {
-    // Program ini akan menghitung luas dan keliling lingkaran.
+    
     public static void main(String[] args) {
     // Inisialisasi scanner untuk membaca input dari pengguna.
         Scanner input = new Scanner(System.in);
